@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Lifecycle of a React Cell"
-date:       2020-09-29 20:12:54 +0000
+date:       2020-09-29 16:12:55 -0400
 permalink:  the_lifecycle_of_a_react_cell
 ---
 
